@@ -1,6 +1,6 @@
 ## rsschool-sv
 
-### **Vladimir Borovikov**
+# **Vladimir Borovikov**
 
 ## **Contacts**
 
@@ -16,8 +16,6 @@ I would like to find new profession in the field of frontend development.
 - **My skills**:
   - Quick learner
   - Team playing
-
----
 
 ## **Skills**
 
@@ -39,7 +37,9 @@ alert( result );
 
 ## **Education**
 
-**University**: Belarusian National Technical University, ELECTRIC DRIVE AND AUTOMATION OF INDUSTRIAL PLANTS AND TECHNOLOGICAL COMPLEXES
+**University**: Belarusian National Technical University
+FITR
+ELECTRIC DRIVE AND AUTOMATION OF INDUSTRIAL PLANTS AND TECHNOLOGICAL COMPLEXES
 
 ## **English**
 
