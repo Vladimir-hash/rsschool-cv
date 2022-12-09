@@ -1,7 +1,5 @@
 ## rsschool-sv
 
----
-
 ### **Vladimir Borovikov**
 
 ---
