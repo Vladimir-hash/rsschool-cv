@@ -2,11 +2,7 @@
 
 ### **Vladimir Borovikov**
 
----
-
 ## **Contacts**
-
----
 
 - **Location**: Mogilev, Belarus
 - **Phone**: +375297326281
@@ -14,8 +10,6 @@
 - **GitHub**: Vladimir-hash(https://github.com/Vladimir-hash)
 
 ## **About ME**
-
----
 
 I would like to find new profession in the field of frontend development.
 
@@ -27,18 +21,12 @@ I would like to find new profession in the field of frontend development.
 
 ## **Skills**
 
----
-
-*HTML
-*CSS/SASS
-*JavaScript
-*Git
-
----
+- HTML
+- CSS/SASS
+- JavaScript
+- Git
 
 ## **Code Example**
-
----
 
 function sum(a, b) {
 return a + b;
@@ -49,17 +37,11 @@ alert( result );
 
 ## **Experience**
 
----
-
 ## **Education**
 
----
-
-\***University**: Belarusian National Technical University, ELECTRIC DRIVE AND AUTOMATION OF INDUSTRIAL PLANTS AND TECHNOLOGICAL COMPLEXES
+**University**: Belarusian National Technical University, ELECTRIC DRIVE AND AUTOMATION OF INDUSTRIAL PLANTS AND TECHNOLOGICAL COMPLEXES
 
 ## **English**
 
----
-
-*Russian - native
-*English - B1
+- Russian - native
+- English - B1
