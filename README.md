@@ -1,1 +1,1 @@
-# rsschool-cv
+https://vladimir-hash.github.io/rsschool-cv/
