@@ -1,1 +1,1 @@
-https://vladimir-hash.github.io/rsschool-cv/cv
+https://vladimir-hash.github.io/rsschool-cv/
